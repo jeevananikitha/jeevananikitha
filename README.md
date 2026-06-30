@@ -1,17 +1,24 @@
+```md
 # 💫 About Me:
-👋 Hi there! I'm Nikitha<br>
-🤖 **Currently working on:**<br>
-AI-powered frontend projects & responsive web apps using **React, JavaScript, and Python**<br>
-🤝 **Looking to collaborate on:**<br>
-AI + Web Development projects, frontend applications, and creative UI ideas<br>
-🧠 **Looking for help with:**<br>
-Integrating AI/ML features into web applications & optimizing intelligent UI workflows<br>
-💬 **Ask me about:**<br>
-React, HTML, CSS, JavaScript, Python, and AI in Web Development<br>
-⚡ **Fun fact:**<br>
-I’m a quick learner who loves picking up new technologies and turning them into working projects 🚀
 
----
+👋 Hi there! I'm Nikitha
+
+🤖 **Currently working on:**  
+Building AI-powered web applications, intelligent dashboards, and responsive user interfaces using **React.js, Tailwind CSS, Material UI, JavaScript, Node.js, Python, and AI technologies**.
+
+🤝 **Looking to collaborate on:**  
+AI + Web Development projects, full-stack applications, intelligent dashboards, frontend engineering, and innovative UI/UX experiences.
+
+🧠 **Looking for help with:**  
+Advanced AI integrations, **RAG pipelines, LLM applications, LangChain, LangGraph, vector databases, MCP, AI agents**, and scalable full-stack architectures.
+
+💬 **Ask me about:**  
+React.js, Tailwind CSS, Material UI, JavaScript (ES6+), TypeScript, Node.js, Express.js, Python, REST APIs, SQL, Supabase, Git, GitHub, AI integrations, RAG, LLMs, Prompt Engineering, and responsive frontend development.
+
+⚡ **Fun fact:**  
+I love learning emerging technologies, building real-world AI products, and turning complex ideas into clean, interactive user experiences. 🚀
+```
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevana-nikitha-b06654243/)
