@@ -1,4 +1,3 @@
-```md
 # 💫 About Me:
 
 👋 Hi there! I'm Nikitha
@@ -17,7 +16,7 @@ React.js, Tailwind CSS, Material UI, JavaScript (ES6+), TypeScript, Node.js, Exp
 
 ⚡ **Fun fact:**  
 I love learning emerging technologies, building real-world AI products, and turning complex ideas into clean, interactive user experiences. 🚀
-```
+
 
 
 ## 🌐 Socials:
